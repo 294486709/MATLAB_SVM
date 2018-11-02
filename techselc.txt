@@ -1,0 +1,1 @@
+To handle problem with image, CNN is one of the best model to consider. Because it can extract feature from a certain region of a image and preserve the link between each node.
